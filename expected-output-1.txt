@@ -1,0 +1,56 @@
+<< your haiku intro message here >>
+
+I'm thinking of a number between 1 and 100...
+Your guess? 50
+It's lower.
+Your guess? 25
+It's higher.
+Your guess? 35
+It's lower.
+Your guess? 30
+It's higher.
+Your guess? 32
+It's lower.
+Your guess? 31
+You got it right in 6 guesses!
+Do you want to play again? y
+
+I'm thinking of a number between 1 and 100...
+Your guess? 50
+It's higher.
+Your guess? 75
+It's lower.
+Your guess? 65
+It's lower.
+Your guess? 61
+It's higher.
+Your guess? 64
+You got it right in 5 guesses!
+Do you want to play again? YES
+
+I'm thinking of a number between 1 and 100...
+Your guess? 60
+It's lower.
+Your guess? 20
+It's higher.
+Your guess? 30
+It's higher.
+Your guess? 40
+It's higher.
+Your guess? 45
+It's higher.
+Your guess? 50
+It's lower.
+Your guess? 47
+It's higher.
+Your guess? 48
+It's higher.
+Your guess? 49
+You got it right in 9 guesses!
+Do you want to play again? no
+
+Overall results:
+Total games   = 3
+Total guesses = 20
+Guesses/game  = 6.7
+Best game     = 5
